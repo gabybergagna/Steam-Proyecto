@@ -8,19 +8,19 @@ from sklearn.metrics.pairwise import cosine_similarity
 app = FastAPI()
 
 # Lectura de todos los CSV
-developer = pd.read_csv('Funciones\\funcion1_developer.csv', low_memory=False)
-user_data = pd.read_csv('Funciones\\Funcion2_userdata.csv', low_memory=False)
-UsersGenre= pd.read_csv('Funciones\\UsersGenre_funcion3.csv', low_memory=False)
-best_developer_year= pd.read_csv('Funciones\\BestDeveloper_funcion4.csv', low_memory=False)
-developer_reviews_analysis = pd.read_csv('Funciones\\sentiment_analysis_funcion.csv', low_memory=False)
+developer = pd.read_csv('Funciones/funcion1_developer.csv', low_memory=False)
+user_data = pd.read_csv('Funciones/Funcion2_userdata.csv', low_memory=False)
+UsersGenre= pd.read_csv('Funciones/UsersGenre_funcion3.csv', low_memory=False)
+best_developer_year= pd.read_csv('Funciones/BestDeveloper_funcion4.csv', low_memory=False)
+developer_reviews_analysis = pd.read_csv('Funciones/sentiment_analysis_funcion.csv', low_memory=False)
 render_model= pd.read_csv('modeloo_render.csv',low_memory=False)   
 
 # Convertir a archivos Parquet
-developer.to_parquet('Funciones\\funcion1_developer.parquet')
-user_data.to_parquet('Funciones\\Funcion2_userdata.parquet')
-UsersGenre.to_parquet('Funciones\\UsersGenre_funcion3.parquet')
-best_developer_year.to_parquet('Funciones\\BestDeveloper_funcion4.parquet')
-developer_reviews_analysis.to_parquet('Funciones\\sentiment_analysis_funcion.parquet')
+developer.to_parquet('Funciones/funcion1_developer.parquet')
+user_data.to_parquet('Funciones/Funcion2_userdata.parquet')
+UsersGenre.to_parquet('Funciones/UsersGenre_funcion3.parquet')
+best_developer_year.to_parquet('Funciones/BestDeveloper_funcion4.parquet')
+developer_reviews_analysis.to_parquet('Funciones/sentiment_analysis_funcion.parquet')
 render_model.to_parquet('modeloo_render.parquet')
 
 
