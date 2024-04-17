@@ -3,6 +3,8 @@
 
 <p align="center">Gabriela Bergagna, 𝗗𝗔𝗧𝗔𝗙𝗧𝟮𝟭</p>
 
+<img src="https://github.com/gabybergagna/Steam-Proyecto/raw/master/images/steam.gif" alt="Texto alternativo" />
+
 <p align="justify">Steam es una plataforma fascinante llena de datos valiosos. No solo nos permite sumergirnos en el vasto mundo de los videojuegos, sino que también nos ofrece una ventana única para entender las preferencias de los jugadores y las tendencias en la industria del entretenimiento digital.</p>
 
 
