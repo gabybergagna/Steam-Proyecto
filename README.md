@@ -32,6 +32,8 @@
 
 <p align="center">Los invito a hacer clic en el enlace a continuación y ver el video. ¡Espero que les resulte interesante!</p>
 
+[video](https://drive.google.com/file/d/1WYS839WrbvPcH2mcm36LYBy8MvtZbx0s/view?usp=sharing)
+
 <p align="center">Gracias y espero que disfruten del video!</p>
 
 <img src="https://github.com/gabybergagna/Steam-Proyecto/raw/master/images/portadagame.png" alt="Texto alternativo" />
