@@ -23,7 +23,7 @@
 
 <ul>
   <li><b>Análisis Exploratorio de Datos (EDA):</b> En esta fase, me sumergí en los datos para descubrir relaciones entre variables y patrones interesantes que merecieran una exploración más detallada.</li>
-  <li><b>Modelo de Aprendizaje Automático:</b> Implementé un sistema de recomendación utilizando la librería Scikit-Learn, basado en una relación Usuario-ítem. Este modelo recomienda juegos similares al tomar un usuario, encuentrando usuarios similares y se realizan recomiendaciones ítems que a esos usuarios similares les. Integré este modelo en la API para que también esté disponible para su consulta.</li>
+  <li><b>Modelo de Aprendizaje Automático:</b> Implementé un sistema de recomendación utilizando la librería Scikit-Learn, basado en una relación Usuario-ítem. Este modelo recomienda juegos similares al tomar un usuario, encuentrando usuarios similares y se realizan recomiendaciones ítems que a esos usuarios similares. Integré este modelo en la API para que también esté disponible para su consulta.</li>
 </ul>
 
 <p align="justify">Esta conclusión resalta la habilidad para fusionar operaciones de Machine Learning con desarrollo de software, culminando en la creación y despliegue de una API sólida y adaptable para sistemas de recomendación. Al abordar la limpieza y preparación de datos, así como el desarrollo de modelos de ML, junto con la implementación de una API utilizando FastAPI, se ha establecido un sistema que enriquece enormemente la experiencia de los usuarios en la plataforma Steam. Mi compromiso es continuar perfeccionando y ampliando la API para incorporar más funcionalidades y mantener la precisión de las recomendaciones, asegurando así una experiencia continua y enriquecedora para los usuarios de Steam.</p>
