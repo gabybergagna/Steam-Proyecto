@@ -5,6 +5,8 @@
 
 <p align="justify">Steam es una plataforma fascinante llena de datos valiosos. No solo nos permite sumergirnos en el vasto mundo de los videojuegos, sino que también nos ofrece una ventana única para entender las preferencias de los jugadores y las tendencias en la industria del entretenimiento digital.</p>
 
+https://github.com/gabybergagna/Steam-Proyecto/blob/master/images/steam.gif?raw=true
+
 <p align="justify">Mi trabajo se dividió en dos partes:</p>
 
 <h3 align="center">Primera Parte:</h3>
